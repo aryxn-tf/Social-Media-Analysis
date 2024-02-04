@@ -25,5 +25,7 @@ Based on the analysis of social media popularity from 2009 to 2023, several insi
 7. Time Series Analysis:
 
     * The line plot over time reveals the popularity trends of Facebook, Pinterest, Twitter, StumbleUpon, and the "Other" category. It shows how Facebook has consistently been the most popular, while the "Other" category has gained traction in recent years.
+
+
 In summary, Facebook has been a dominant force in the social media landscape over the years, with a stable and high level of popularity. While other platforms like Twitter and Pinterest have also maintained notable popularity, the emergence of various smaller platforms contributes to the overall diversity of the social media landscape.
 
